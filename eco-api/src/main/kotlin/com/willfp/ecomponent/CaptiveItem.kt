@@ -59,7 +59,7 @@ fun MenuBuilder.addComponent(
  * bind it to an item.
  */
 fun MenuBuilder.addComponent(
-    layer: MenuLayer,
+    layer: Int,
     row: Int,
     column: Int,
     component: GUIComponent,
