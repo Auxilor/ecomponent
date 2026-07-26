@@ -11,13 +11,13 @@ Pre-made components for the [eco](https://github.com/Auxilor/eco) GUI system
     </a>
 </p>
 
-## Get from JitPack:
+## Get from Auxilor repo:
 
 Gradle:
 
 ```groovy
 repositories {
-    maven { url 'https://jitpack.io' }
+    maven { url 'https://repo.auxilor.io/repository/maven-public/' }
 }
 
 ```
@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 
-Replace `Tag` with a release tag for ecomponent, eg `1.0.0`.
+Replace `Tag` with a release tag for ecomponent, eg `1.5.0`.
 
 ## License
 
